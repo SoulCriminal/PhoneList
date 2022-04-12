@@ -1,0 +1,8 @@
+C:\Users\MgM\source\repos\PhoneList\PhoneList\bin\Debug\PhoneList.exe.config
+C:\Users\MgM\source\repos\PhoneList\PhoneList\bin\Debug\PhoneList.exe
+C:\Users\MgM\source\repos\PhoneList\PhoneList\bin\Debug\PhoneList.pdb
+C:\Users\MgM\source\repos\PhoneList\PhoneList\obj\Debug\PhoneList.csproj.AssemblyReference.cache
+C:\Users\MgM\source\repos\PhoneList\PhoneList\obj\Debug\PhoneList.csproj.SuggestedBindingRedirects.cache
+C:\Users\MgM\source\repos\PhoneList\PhoneList\obj\Debug\PhoneList.csproj.CoreCompileInputs.cache
+C:\Users\MgM\source\repos\PhoneList\PhoneList\obj\Debug\PhoneList.exe
+C:\Users\MgM\source\repos\PhoneList\PhoneList\obj\Debug\PhoneList.pdb
